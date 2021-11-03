@@ -1,0 +1,26 @@
+{
+    "id": "5AE5A280",
+    "path": "~/Desktop/Trabajo/Programacion/R/Apps-shiny/En desarrollo/Dataton 2/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "1839123601",
+    "contents": "",
+    "dirty": false,
+    "created": 1634954700597.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "307,2",
+        "scrollLine": "285"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635207967,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635207967658,
+    "read_only": false,
+    "read_only_alternatives": []
+}
